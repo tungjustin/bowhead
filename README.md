@@ -109,3 +109,4 @@ TODO:
 1) Standardize the calls to brokerages so the method names are the same across all of them.
 2) reporting, logging and backtesting tools.
 
+OUR OWN BOWHEAD PROJECT
